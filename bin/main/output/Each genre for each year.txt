@@ -1,0 +1,491 @@
+
+0
+Sci-Fi: 0
+
+1902
+Action: 0
+Adventure: 0
+Fantasy: 0
+Sci-Fi: 0
+
+1903
+Crime: 0
+Western: 0
+
+1908
+Animation: 0
+Comedy: 0
+Sci-Fi: 0
+
+1915
+Drama: 0
+War: 0
+
+1916
+Drama: 0
+
+1917
+Comedy: 0
+
+1919
+Comedy: 0
+Drama: 0
+
+1920
+Crime: 0
+Fantasy: 0
+Horror: 0
+
+1921
+Comedy: 0
+Drama: 0
+
+1922
+Horror: 0
+
+1923
+Drama: 0
+
+1924
+Comedy: 0
+
+1925
+Adventure: 0
+Comedy: 0
+Romance: 0
+
+1926
+Comedy: 0
+War: 0
+
+1927
+Drama: 0
+Sci-Fi: 0
+
+1928
+Animation: 0
+Children: 0
+Comedy: 0
+Musical: 0
+
+1929
+Musical: 0
+
+1930
+Action: 0
+Drama: 0
+War: 0
+
+1931
+Crime: 0
+Film-Noir: 0
+Thriller: 0
+
+1932
+Romance: 0
+War: 0
+
+1933
+Comedy: 0
+Musical: 0
+War: 0
+
+1934
+Comedy: 0
+Romance: 0
+
+1935
+Comedy: 0
+Musical: 0
+Romance: 0
+
+1936
+Comedy: 0
+Romance: 0
+
+1937
+Animation: 0
+Children: 0
+Drama: 0
+Fantasy: 0
+Musical: 0
+
+1938
+Action: 0
+Adventure: 0
+Romance: 0
+
+1939
+Children: 0
+Drama: 0
+
+1940
+Animation: 0
+Children: 0
+Fantasy: 0
+Musical: 0
+
+1941
+Film-Noir: 0
+Mystery: 0
+
+1942
+Drama: 0
+Romance: 0
+
+1943
+Adventure: 0
+Drama: 0
+Romance: 0
+War: 0
+
+1944
+Drama: 0
+Thriller: 0
+
+1945
+Mystery: 0
+Romance: 0
+Thriller: 0
+
+1946
+Film-Noir: 0
+Romance: 0
+Thriller: 0
+
+1947
+Drama: 0
+Fantasy: 0
+Romance: 0
+
+1948
+Action: 0
+Adventure: 0
+Drama: 0
+Western: 0
+
+1949
+Musical: 0
+
+1950
+Drama: 0
+Film-Noir: 0
+Romance: 0
+
+1951
+Musical: 312
+Romance: 0
+
+1952
+Comedy: 0
+Musical: 0
+Romance: 0
+
+1953
+Comedy: 0
+Drama: 0
+Romance: 0
+
+1954
+Mystery: 0
+Thriller: 0
+
+1955
+Drama: 0
+
+1956
+Drama: 0
+Romance: 0
+Western: 0
+
+1957
+Comedy: 0
+Musical: 0
+
+1958
+Drama: 0
+Mystery: 0
+Romance: 0
+Thriller: 0
+
+1959
+Drama: 0
+
+1960
+Comedy: 0
+Drama: 0
+Romance: 0
+
+1961
+Drama: 0
+Romance: 0
+
+1962
+Adventure: 0
+Drama: 0
+War: 0
+
+1963
+Comedy: 0
+Crime: 0
+Mystery: 0
+Romance: 0
+Thriller: 0
+
+1964
+Drama: 0
+Musical: 0
+Romance: 0
+
+1965
+Action: 0
+Crime: 0
+Drama: 0
+
+1966
+Action: 0
+Adventure: 0
+Western: 0
+
+1967
+Drama: 0
+
+1968
+Adventure: 0
+Comedy: 0
+Sci-Fi: 0
+
+1969
+Adventure: 0
+Western: 0
+
+1970
+Animation: 0
+Children: 0
+
+1971
+Adventure: 0
+Children: 0
+Musical: 0
+
+1972
+Crime: 0
+Drama: 0
+
+1973
+Comedy: 0
+Drama: 0
+
+1974
+Children: 0
+Comedy: 0
+Fantasy: 0
+Romance: 0
+
+1975
+Children: 0
+Comedy: 0
+Western: 0
+
+1976
+Crime: 0
+Drama: 0
+Thriller: 0
+
+1977
+Action: 0
+Adventure: 0
+Sci-Fi: 0
+
+1978
+Comedy: 0
+
+1979
+Comedy: 0
+
+1980
+Horror: 0
+
+1981
+Action: 0
+Adventure: 0
+Animation: 0
+Horror: 0
+Sci-Fi: 0
+
+1982
+Action: 0
+Sci-Fi: 0
+Thriller: 0
+
+1983
+Action: 0
+Adventure: 0
+Sci-Fi: 0
+
+1984
+Drama: 0
+
+1985
+Fantasy: 0
+Sci-Fi: 0
+
+1986
+Drama: 0
+War: 0
+
+1987
+Drama: 0
+Musical: 0
+Romance: 0
+
+1988
+Adventure: 0
+Animation: 0
+Children: 0
+Comedy: 0
+Musical: 0
+
+1989
+Action: 0
+Crime: 0
+Thriller: 0
+
+1990
+Children: 0
+Comedy: 0
+
+1991
+Action: 0
+Sci-Fi: 0
+
+1992
+Drama: 0
+
+1993
+Comedy: 0
+Drama: 0
+
+1994
+Adventure: 0
+Drama: 0
+
+1995
+Adventure: 1262
+Animation: 610
+Children: 663
+Comedy: 3755
+Fantasy: 778
+
+1996
+Drama: 0
+Thriller: 0
+
+1997
+Drama: 0
+Romance: 0
+
+1998
+Crime: 0
+Drama: 0
+Thriller: 0
+
+1999
+Comedy: 0
+Drama: 0
+War: 0
+
+2000
+Crime: 0
+Drama: 0
+
+2001
+Crime: 0
+Drama: 0
+Thriller: 0
+
+2002
+Comedy: 0
+Crime: 0
+
+2003
+Comedy: 0
+Documentary: 0
+
+2004
+Comedy: 0
+Romance: 0
+
+2005
+Action: 0
+Adventure: 0
+Drama: 0
+Sci-Fi: 0
+Thriller: 0
+
+2006
+Animation: 0
+Drama: 0
+Mystery: 0
+Sci-Fi: 0
+Thriller: 0
+
+2007
+Drama: 0
+
+2008
+Comedy: 0
+
+2009
+Action: 0
+Drama: 0
+Mystery: 0
+Sci-Fi: 0
+Thriller: 0
+IMAX: 0
+
+2010
+Action: 0
+Drama: 0
+Horror: 0
+Thriller: 0
+
+2011
+Drama: 0
+Fantasy: 0
+Romance: 0
+
+2012
+Action: 0
+Adventure: 0
+Sci-Fi: 0
+IMAX: 0
+
+2013
+Comedy: 456
+Horror: 118
+Romance: 107
+
+2014
+Action: 0
+Thriller: 0
+
+2015
+Action: 0
+Adventure: 0
+Thriller: 0
+
+2016
+Action: 0
+Adventure: 0
+Fantasy: 0
+
+2017
+Action: 0
+Adventure: 0
+Sci-Fi: 0
+
+2018
+Action: 0
+Adventure: 0
+Sci-Fi: 0

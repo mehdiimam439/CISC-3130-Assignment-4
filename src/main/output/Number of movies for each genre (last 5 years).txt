@@ -1,0 +1,15 @@
+Comedy: 456
+Drama: 438
+Action: 287
+Thriller: 224
+Adventure: 190
+Sci-Fi: 152
+Crime: 136
+Horror: 118
+Romance: 107
+Animation: 101
+Fantasy: 70
+Documentary: 68
+Children: 56
+Mystery: 54
+Western: 7
